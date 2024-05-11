@@ -1,0 +1,26 @@
+#root{
+    background: #FEFAE0;
+    margin: 0; /* Elimina el margen predeterminado */
+    
+    width: 100%; /* Asegura que el cuerpo ocupe el 100% del ancho de la pantalla */
+    box-sizing: border-box; 
+}
+/* Estilos para la barra de desplazamiento */
+::-webkit-scrollbar {
+    width: 15px; /* Ancho de la barra de desplazamiento */
+}
+
+/* Estilos para el riel de la barra de desplazamiento */
+::-webkit-scrollbar-track {
+    background: #b9a79b; /* Color de fondo del riel */
+}
+
+/* Estilos para el pulgar (manija) de la barra de desplazamiento */
+::-webkit-scrollbar-thumb {
+    background: #574030; /* Color del pulgar */
+}
+
+/* Estilos para el pulgar de la barra de desplazamiento cuando se está desplazando */
+::-webkit-scrollbar-thumb:hover {
+    background: #5a4537; /* Color del pulgar al pasar el cursor sobre él */
+}
