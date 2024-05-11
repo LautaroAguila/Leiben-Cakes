@@ -8,14 +8,14 @@ const ModalCharacteristics= ({ show, onHide, onShow, id, title }) => {
             size="lg"
             aria-labelledby="contained-modal-title-vcenter"
             centered
-            
+            style={{backgroundColor:'#A67F67'}}
         >
             <Modal.Header closeButton>
             <Modal.Title id="contained-modal-title-vcenter">
                 {title}
             </Modal.Title>
             </Modal.Header>
-            <Modal.Body style={{backgroundColor:'#A67F67'}}>
+            <Modal.Body >
                 <ItemDetaliContainer id={id}/>
             </Modal.Body>
             <Modal.Footer>
