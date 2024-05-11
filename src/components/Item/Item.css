@@ -17,10 +17,6 @@
     margin-top: 20px;
 }
 
-.boton-item{
-    border-radius: 50%;
-}
-
 .item-image {
     width: 100%;
     max-width: 300px; /* Define un ancho máximo para la imagen */
@@ -55,7 +51,7 @@
 }
 
 .item-container:hover .item-content {
-    opacity: 0.7;
+    opacity: 0.95;
 }
 
 

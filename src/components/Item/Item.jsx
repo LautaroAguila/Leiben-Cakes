@@ -22,7 +22,7 @@ const Item = ({ id, title, des1, des2, des3, des4, des5, des6, des7, des8, des9,
 
     return (
         <div className="item-container">
-            <Button variant="light" onClick={handleClick} className='botn-item'>
+            <Button variant="light" onClick={handleClick} style={{borderRadius:"50%"}}>
                 <img className="item-image" src={image} alt={title} />
                 <div className="item-content">
                     <p className="ver-mas" >{title}<br />VER MAS</p>
