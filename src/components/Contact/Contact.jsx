@@ -10,7 +10,7 @@ function Contact() {
                 <div className="col-md-6">
                     <p className='titu-conta'>Contactanos</p>
                     <div className="d-flex justify-content-center ico-cont">
-                        <a className="mr-3" href="https://wa.link/b3qiy0" style={{fontSize:'50px'}}><i className="fab fa-whatsapp text-black-contact"></i></a>
+                        <a className="mr-3" href="https://wa.link/z18t26" style={{fontSize:'50px'}}><i className="fab fa-whatsapp text-black-contact"></i></a>
                         <a href="https://www.instagram.com/lieben.cake/" style={{fontSize:'50px'}}><i className="fab fa-instagram text-black-contact"></i></a>
                     </div>
                     <div className="text-center mt-3 tel-contact">

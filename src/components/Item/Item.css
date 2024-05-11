@@ -16,6 +16,9 @@
     margin-bottom: 20px;
 }
 
+.boton-item{
+    border-radius: 50%;
+}
 .item-image {
     width: 100%;
     max-width: 300px; /* Define un ancho máximo para la imagen */
@@ -71,3 +74,4 @@
         margin-bottom: 10px;
     }
 }
+

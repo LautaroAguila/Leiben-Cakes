@@ -22,7 +22,7 @@ function Footer() {
             </div>
 
             <div className='socialIcons'>
-                <a id='ico' href="https://wa.link/b3qiy0" ><i className='fa-brands fa-whatsapp'></i></a>
+                <a id='ico' href="https://wa.link/z18t26" ><i className='fa-brands fa-whatsapp'></i></a>
                 <a id='ico' href="https://www.instagram.com/lieben.cake/"><i className='fa-brands fa-instagram'></i></a>
             </div>
         </footer>
