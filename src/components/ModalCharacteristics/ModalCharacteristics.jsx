@@ -8,10 +8,10 @@ const ModalCharacteristics= ({ show, onHide, onShow, id, title }) => {
             size="lg"
             aria-labelledby="contained-modal-title-vcenter"
             centered
-            style={{backgroundColor:'#F9EBC7', opacity:'0.5'}}
+            style={{backgroundColor:'#F9EBC7'}}
         >
-            <Modal.Header closeButton>
-            <Modal.Title id="contained-modal-title-vcenter" style={{backgroundColor:'#A67F67', fontFamily:'Cambria, Cochin, Georgia, Times, Times New Roman,serif'}}>
+            <Modal.Header closeButton style={{backgroundColor:'#A67F67'}}>
+            <Modal.Title id="contained-modal-title-vcenter">
                 {title}
             </Modal.Title>
             </Modal.Header>
