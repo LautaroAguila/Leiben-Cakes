@@ -15,7 +15,7 @@ const ModalCharacteristics= ({ show, onHide, onShow, id, title }) => {
                 {title}
             </Modal.Title>
             </Modal.Header>
-            <Modal.Body>
+            <Modal.Body style={{backgroundColor:'#A67F67'}}>
                 <ItemDetaliContainer id={id}/>
             </Modal.Body>
             <Modal.Footer>
