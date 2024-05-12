@@ -37,7 +37,7 @@
 }
 .txt :hover{
     text-decoration: underline;
-    text-decoration-color: blanchedalmond;
+    text-decoration-color: rgb(255, 235, 205);
 }
 #telefono {
     display: block; 
