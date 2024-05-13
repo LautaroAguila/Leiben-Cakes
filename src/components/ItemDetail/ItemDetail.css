@@ -1,3 +1,6 @@
 .item img{
     width: 100%;
 }
+.link-detalle ::hover{
+    color: aliceblue;
+}
