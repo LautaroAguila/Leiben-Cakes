@@ -1,6 +1,13 @@
 .item img{
     width: 100%;
 }
-.link-detalle ::hover{
-    color: aliceblue;
+/* ItemDetail.css */
+
+.link-detalle {
+    color: black; /* Color del texto */
+    transition: color 0.3s ease; /* Transición suave para el cambio de color del texto */
+}
+
+.link-detalle:hover {
+    color: rgb(243, 239, 228); /* Cambia el color del texto al pasar el cursor sobre el enlace */
 }
