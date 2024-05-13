@@ -11,7 +11,7 @@ const PaymentMethod = () => {
             <div className="row justify-content-center">
                 <div className="col-md-4 col-sm-6 text-center mb-4 payment-method">
                     <img src={csh} alt="" className="img-fluid payment-icon" />
-                    <p className="mt-2 mb-0 payment-text">Efectivo</p>
+                    <p className="mt-2 mb-0 payment-text">Efectivo / Transferecia</p>
                 </div>
                 <div className="col-md-4 col-sm-6 text-center mb-4 payment-method">
                     <img src={mp} alt="" className="img-fluid payment-icon" />
