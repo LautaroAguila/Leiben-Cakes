@@ -13,13 +13,13 @@ function Carousel() {
             <div id="carouselExample" className="carousel slide tam-car">
                 <div className="carousel-inner">
                     <div className="carousel-item active tam-car-it">
-                        <img src={Torta1} className="d-block w-100 im-car" alt="..." style={{ maxWidth: "95%",maxHeight: "750px", margin: "auto" }} />
+                        <img src={Torta3}className="d-block w-100 im-car" alt="..." style={{ maxWidth: "95%",maxHeight: "750px", margin: "auto" }} />
                     </div>
                     <div className="carousel-item tam-car-it">
                         <img src={Torta2} className="d-block w-100 im-car" alt="..." style={{ maxWidth: "95%",maxHeight: "750px", margin: "auto" }} />
                     </div>
                     <div className="carousel-item tam-car-it">
-                        <img src={Torta3} className="d-block w-100 im-car" alt="..." style={{ maxWidth: "95%",maxHeight: "750px", margin: "auto" }} />
+                        <img src={Torta1}  className="d-block w-100 im-car" alt="..." style={{ maxWidth: "95%",maxHeight: "750px", margin: "auto" }} />
                     </div>
                     <div className="carousel-item tam-car-it">
                         <img src={Torta4} className="d-block w-100 im-car" alt="..." style={{ maxWidth: "95%",maxHeight: "750px", margin: "auto" }} />
