@@ -30,7 +30,7 @@ const ItemDetail = ({item}) => {
                     <p>{des7}</p>
                     <p>{des8}</p>
                     <p>{des9}</p>
-                    <a className='link-detalle' href="www.youtube.com">Para ver fotos de los productos, visita nuestro catalogo aqui.</a>
+                    <a className='link-detalle' href="https://drive.google.com/drive/folders/1tSew4NA7lKnQy2jHwKhZv61bFyqNI4hm">Para ver fotos de los productos, visita nuestro catalogo aqui.</a>
                 </div>
                 
             </div>
